@@ -98,13 +98,13 @@
     <distributionManagement>
         <repository>
             <id>central</id>
-            <name>8a81a458d2e2-releases</name>
-            <url>http://192.168.241.138:8091/artifactory/libs-release</url>
+            <name>cf0ba924eda6-releases</name>
+            <url>http://192.168.241.139:8091/artifactory/libs-release</url>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
-            <name>8a81a458d2e2-snapshots</name>
-            <url>http://192.168.241.138:8091/artifactory/libs-release</url>
+            <name>cf0ba924eda6-snapshots</name>
+            <url>http://192.168.241.139:8091/artifactory/libs-release</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
